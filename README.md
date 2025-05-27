@@ -146,8 +146,8 @@ Based on the reference paper, our team adopted the following core techniques:
 
   * Combine data from all four time periods.
   * Convert to pandas DataFrame.
-  * Save as CSV file.
-
+  * Save as CSV.
+git
 #### 3.2.3. Output Data of the Step
 
 * Illustration of the processed table:
